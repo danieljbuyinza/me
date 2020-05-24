@@ -1135,6 +1135,11 @@ section.lazy-placeholder:after {
 .cid-rZTisWhXtO .mbr-section-btn {
   color: #ffffff;
 }
+.cid-rZUzUq5xth {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
 .cid-rZUsXA3Zaf {
   padding-top: 105px;
   padding-bottom: 90px;
@@ -1555,4 +1560,9 @@ section.lazy-placeholder:after {
 .cid-rZTgVJ7u8m .nav-link:hover,
 .cid-rZTgVJ7u8m .dropdown-item:hover {
   color: #767676 !important;
+}
+.cid-rZUzUq5xth {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
