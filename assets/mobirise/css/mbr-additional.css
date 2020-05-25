@@ -1353,7 +1353,7 @@ section.lazy-placeholder:after {
   position: relative;
   color: #232323;
   cursor: pointer;
-  border-color: #b1a374;
+  border-color: #40e0d0;
 }
 .cid-rZVzi8v0Ye .btn-social i {
   top: 0;
@@ -1362,10 +1362,10 @@ section.lazy-placeholder:after {
 }
 .cid-rZVzi8v0Ye .btn-social:hover {
   color: #fff;
-  background: #b1a374;
+  background: #40e0d0;
 }
 .cid-rZVzi8v0Ye .btn-social:hover i.socicon {
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 .cid-rZVzi8v0Ye .btn-social + .btn {
   margin-left: .1rem;
