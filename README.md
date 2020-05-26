@@ -1,2 +1,2 @@
 # me
-Daniel Jiga Buyinza
+Daniel Jiga Buyinza - https://danieljbuyinza.github.io/me/
