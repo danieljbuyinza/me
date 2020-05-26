@@ -1,2 +1,2 @@
 # me
-GitHub Pages
+Daniel Jiga Buyinza
