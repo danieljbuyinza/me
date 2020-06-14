@@ -956,6 +956,76 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s1TMkP8xbw {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #40e0d0;
+}
+.cid-s1TMkP8xbw P {
+  color: #767676;
+}
+.cid-s1TMkP8xbw H1 {
+  color: #ffffff;
+}
+.cid-s1TlEjo5fp {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background: linear-gradient(45deg, #40e0d0, #40e0d0);
+}
+.cid-s1TlEjo5fp .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-s1TlEjo5fp .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-s1TlEjo5fp .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-s1TlEjo5fp .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-s1TlEjo5fp .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-s1TlEjo5fp .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-s1TlEjo5fp .plan-header,
+.cid-s1TlEjo5fp .plan-body {
+  background-color: #fff;
+}
+.cid-s1TlEjo5fp .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-s1TlEjo5fp .price-value {
+  font-weight: 700;
+  vertical-align: top;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-s1TlEjo5fp .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-s1TlEjo5fp .plan-title {
+  color: #232323;
+}
 .cid-rZTgVJ7u8m .navbar {
   background: #ffffff;
   transition: none;
